@@ -1,0 +1,16 @@
+PODS:
+  - ProductListModule (0.0.1)
+
+DEPENDENCIES:
+  - ProductListModule (from `../`)
+
+EXTERNAL SOURCES:
+  ProductListModule:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ProductListModule: d9b726a41d4c5179f357f04029a79b40d7e70be1
+
+PODFILE CHECKSUM: 4c4f943e0538b07aaa51455f3caf34dab17b5fdb
+
+COCOAPODS: 1.5.3

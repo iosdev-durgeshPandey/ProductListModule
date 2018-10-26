@@ -22,7 +22,7 @@ target 'ProductListSampleApp' do
     # , :path => '../ios-swift-framework'
 
   # Pods for ProductListSampleApp
-  pod 'ProductListModule' , :path => '../MyBazaar_Frameworks'
+  pod 'ProductListModule' , :path => '../'
 
   target 'ProductListSampleAppTests' do
     inherit! :search_paths
